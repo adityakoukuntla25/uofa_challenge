@@ -23,12 +23,7 @@ Welcome to the **Shopping Cart Challenge**! Your task is to write the missing Ja
 
 ## 🚀 Your Task  
 
-### **Step 1: Populate the Product List**  
-Modify `script.js` to **dynamically populate** the product list in the carousel from an array of objects.  
-
----
-
-### **Step 2: Implement the Shopping Cart**  
+### **Step 1: Implement the Shopping Cart**  
 1. Complete the `addToCart(index)` function:  
    - Add the selected product to the cart.  
    - Update the cart display.  
@@ -43,7 +38,7 @@ Modify `script.js` to **dynamically populate** the product list in the carousel 
 
 ---
 
-### **Step 3: Implement Checkout Logic**  
+### **Step 2: Implement Checkout Logic**  
 1. Implement `checkout()`:  
    - Redirect to a **"Thank You"** page after clicking **"Checkout"**.  
 
