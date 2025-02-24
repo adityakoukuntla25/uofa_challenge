@@ -5,6 +5,7 @@ const products = [
     { name: "Tablet", price: 500, image: "https://i5.walmartimages.com/seo/Samsung-Galaxy-Tab-A9-11-4GB-RAM-64GB-Storage-Navy-Wi-Fi-Tablet-SM-X210NDBAXAR_14fd00d5-2f27-4cd1-ae4b-c269ae88f138.76e1dfe2c7d5ce3ac2e7d6f35fced1f4.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF" },
     { name: "Smartwatch", price: 300, image: "https://i5.walmartimages.com/seo/Forerunner-945-GPS-Running-Smartwatch-in-Black_1e0780f6-184b-498f-baab-73d4b5501cbf_2.4adc69f885e22b41684e4ace182ec099.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF" },
 ];
+
 const cart = [];
 
 function displayProducts() {
@@ -23,27 +24,15 @@ function displayProducts() {
 }
 
 function addToCart(index) {
-    cart.push(products[index]);
-    updateCart();
+        // TODO: Implement logic to add product to cart
 }
 
 function updateCart() {
-    const cartList = document.getElementById("cart-list");
-    const cartTotal = document.getElementById("cart-total");
-    cartList.innerHTML = "";
-    let total = 0;
-    cart.forEach((item, i) => {
-        total += item.price;
-        const li = document.createElement("li");
-        li.innerHTML = `${item.name} - $${item.price} <button onclick="removeFromCart(${i})">Remove</button>`;
-        cartList.appendChild(li);
-    });
-    cartTotal.textContent = total;
+    // TODO: Implement logic to update the cart display
 }
 
 function removeFromCart(index) {
-    cart.splice(index, 1);
-    updateCart();
+     // TODO: Implement logic to remove items from the cart
 }
 
 // Carousel Navigation
@@ -56,11 +45,7 @@ function nextSlide() {
 }
 
 function checkout() {
-    if (cart.length === 0) {
-        alert("Your cart is empty!");
-        return;
-    }
-    window.location.href = "thankyou.html";
+     // TODO: Implement checkout logic
 }
 
 displayProducts();
