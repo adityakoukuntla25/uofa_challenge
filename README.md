@@ -23,7 +23,12 @@ Welcome to the **Shopping Cart Challenge**! Your task is to write the missing Ja
 
 ## 🚀 Your Task  
 
-### **Step 1: Implement the Shopping Cart**  
+### **Step 1: Implement Carousel Navigation**  
+1. Ensure `prevSlide()` and `nextSlide()` allow smooth scrolling between products.
+
+---
+
+### **Step 2: Implement the Shopping Cart**  
 1. Complete the `addToCart(index)` function:  
    - Add the selected product to the cart.  
    - Update the cart display.  
@@ -38,14 +43,9 @@ Welcome to the **Shopping Cart Challenge**! Your task is to write the missing Ja
 
 ---
 
-### **Step 2: Implement Checkout Logic**  
+### **Step 3: Implement Checkout Logic**  
 1. Implement `checkout()`:  
    - Redirect to a **"Thank You"** page after clicking **"Checkout"**.  
-
----
-
-### **Step 4: Implement Carousel Navigation**  
-1. Ensure `prevSlide()` and `nextSlide()` allow smooth scrolling between products.  
 
 ---
 
@@ -56,6 +56,11 @@ By the end of this challenge, clicking **"Add to Cart"** should:
 ✅ Allow removing items with the **"Remove"** button.  
 ✅ Redirect to a **Thank You** page when clicking **"Checkout"**.  
 ✅ Enable left/right navigation in the product carousel.  
+
+
+https://github.com/user-attachments/assets/a317bb65-aae5-4753-8112-7532892fb332
+
+
 
 ---
 
