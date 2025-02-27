@@ -74,7 +74,9 @@ https://github.com/user-attachments/assets/a317bb65-aae5-4753-8112-7532892fb332
 
 Additional Resources:
 Electrode Overview: [Electrode GitHub](https://github.com/walmartlabs/electrode)
+
 Walmart Open-Source Projects: [WalmartLabs Open-Source](https://github.com/walmartlabs)
+
 Walmart Careers: [Walmart Careers Page](https://careers.walmart.com/)
 
 
