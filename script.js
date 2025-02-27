@@ -37,11 +37,11 @@ function removeFromCart(index) {
 
 // Carousel Navigation
 function prevSlide() {
-    document.getElementById("product-container").scrollBy({ left: -200, behavior: "smooth" });
+       // TODO: Implement carousel navigation to previous slide
 }
 
 function nextSlide() {
-    document.getElementById("product-container").scrollBy({ left: 200, behavior: "smooth" });
+    // TODO: Implement carousel navigation to next slide
 }
 
 function checkout() {
