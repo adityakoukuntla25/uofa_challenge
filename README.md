@@ -71,3 +71,14 @@ https://github.com/user-attachments/assets/a317bb65-aae5-4753-8112-7532892fb332
 ---
 
 ## 🎉 Have Fun & Happy Coding! 🚀  
+
+Additional Resources:
+Electrode Overview: [Electrode GitHub](https://github.com/walmartlabs/electrode)
+Walmart Open-Source Projects: [WalmartLabs Open-Source](https://github.com/walmartlabs)
+Walmart Careers: [Walmart Careers Page](https://careers.walmart.com/)
+
+
+Love javascript? 
+There is plenty of material on internet but this is something that got lot free stuff along with some in depth material.
+
+https://namastedev.com/learn
